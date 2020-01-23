@@ -8,7 +8,7 @@ The most prominent and one of the most well regarded cheat-sites for CS and othe
 - LoCo
 - Sruh
 - h1web
-- ThOne
+- TheOne
 - XanTraX
 - An7hrax
 - zippz0r
